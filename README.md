@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/dreamhouseapp/dreamhouse-lwc.svg?style=svg)](https://circleci.com/gh/dreamhouseapp/dreamhouse-lwc)
 
-> IMPORTANT: This is the new Lightning Web Components version of the Dreamhouse sample application. If you are looking for the Aura version, click [here](https://github.com/dreamhouseapp/dreamhouse-sfdx).
+> IMPORTANT! This is the new Lightning Web Components version of the Dreamhouse sample application. If you are looking for the Aura version, click [here](https://github.com/dreamhouseapp/dreamhouse-sfdx).
 
 ![dreamhouse-logo](dreamhouse-logo.png)
 
